@@ -31,3 +31,5 @@ Currently i am a student of Computer Civil Engineering at the Universidad Catól
   💼 https://www.linkedin.com/in/rseguras/
 </div>
 
+## *🏁 Yes i love cars*
+https://hips.hearstapps.com/roa.h-cdn.co/assets/16/05/480x240/landscape-1454772810-f40-touge.gif?resize=640:*
