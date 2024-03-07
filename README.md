@@ -1,13 +1,12 @@
 # 🗻 Rodrigo Segura Segura
 
-Currently i am a student of Computer Civil Engineering at the Universidad Católica del Maule. My focus encompasses a wide range of skills, from programming and databases to networks, security, and operating systems. My passion for technology is reflected in my constant interest in learning and applying knowledge in both frontend and backend development.
+Currently I am a student of Computer Civil Engineering at the Universidad Católica del Maule. My focus encompasses a wide range of skills, from programming and databases to networks, security, and operating systems. My passion for technology is reflected in my constant interest in learning and applying knowledge in both frontend and backend development.
 
-
-
-
+<div align="center">
+  <img src="https://hips.hearstapps.com/roa.h-cdn.co/assets/16/05/480x240/landscape-1454772810-f40-touge.gif?resize=640:*" />
+</div>
 
 ## *🧰 Languages and Tools*
-
 
 <div align="center">
   <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -21,9 +20,6 @@ Currently i am a student of Computer Civil Engineering at the Universidad Catól
 </div>
 </br>
 
-
-
-
 ## *📲 How to reach me?*
 
 <div align="center">
@@ -31,7 +27,8 @@ Currently i am a student of Computer Civil Engineering at the Universidad Catól
   💼 https://www.linkedin.com/in/rseguras/
 </div>
 
-## *🏁 Yes i love cars*
+## *🏁 Yes, I love cars*
+
 <div align="center">
   <img src="https://hips.hearstapps.com/roa.h-cdn.co/assets/16/05/480x240/landscape-1454772810-f40-touge.gif?resize=640:*" />
 </div>
