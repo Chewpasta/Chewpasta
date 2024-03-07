@@ -6,7 +6,7 @@ Currently i am a student of Computer Civil Engineering at the Universidad Catól
 
 
 
-## 🧰 Languages and Tools
+## **🧰 Languages and Tools**
 
 
 <div align="center">
