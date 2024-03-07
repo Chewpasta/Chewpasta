@@ -23,9 +23,9 @@ Currently I am a student of Computer Civil Engineering at the Universidad Catól
 
 ### *📲 How to reach me?*
 
-<div align="center">
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rseguras/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rsegura.f1@gmail.com)
-</div>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rseguras/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rsegura.f1@gmail.com)
+
 
 
