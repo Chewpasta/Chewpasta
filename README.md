@@ -23,15 +23,13 @@ Currently I am a student of Computer Civil Engineering at the Universidad Catól
 
 ### *📲 How to reach me?*
 
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rseguras/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rsegura.f1@gmail.com)
-
-<a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
+<div align="center">
+  <a href="https://www.linkedin.com/in/rseguras/">
     <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:hrishipotter123@gmail.com">
+  <a href="mailto:rsegura.f1@gmail.com">
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+  </a>  
+</div>
 
 
