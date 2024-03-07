@@ -1,6 +1,6 @@
 # 🗻 Rodrigo Segura Segura
 
-Currently a student of Computer Civil Engineering at the Universidad Católica del Maule. My focus encompasses a wide range of skills, from programming and databases to networks, security, and operating systems. My passion for technology is reflected in my constant interest in learning and applying knowledge in both frontend and backend development.
+Currently i am a student of Computer Civil Engineering at the Universidad Católica del Maule. My focus encompasses a wide range of skills, from programming and databases to networks, security, and operating systems. My passion for technology is reflected in my constant interest in learning and applying knowledge in both frontend and backend development.
 
 
 
