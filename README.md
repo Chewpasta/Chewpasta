@@ -5,8 +5,9 @@ Currently a student of Computer Civil Engineering at the Universidad Católica d
 
 
 #
-
-## 🧰 Languages and Tools
+<div align="center">
+  ## 🧰 Languages and Tools
+</div>
 
 <div align="center">
   <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
