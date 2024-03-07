@@ -25,10 +25,10 @@ Currently I am a student of Computer Civil Engineering at the Universidad Catól
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rseguras/">
-    <img align="center" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Jugal Bhatt | Linkedin" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:rsegura.f1@gmail.com">
-    <img align="center" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Jugal Bhatt | Gmail" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>  
 </div>
 
