@@ -23,3 +23,8 @@ Currently i am a student of Computer Civil Engineering at the Universidad Catól
 
 
 #
+
+## *📲 How to reach me?*
+
+<div align="center">
+  <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://fontawesome.com/icons/envelope?f=classic&s=solid)https://fontawesome.com/icons/envelope?f=classic&s=solid" />
