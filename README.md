@@ -1,13 +1,8 @@
 # 🗻 Rodrigo Segura Segura
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    Currently I am a student of Computer Civil Engineering at the Universidad Católica del Maule. My focus encompasses a wide range of skills, from programming and databases to networks, security, and operating systems. My passion for technology is reflected in my constant interest in learning and applying knowledge in both frontend and backend development.
-  </div>
-  <div>
-    <img src="https://media.tenor.com/k2yVHaZJhwcAAAAM/f40-ferrari-f40flowers.gif" style="width: 100px; height: auto;" />
-  </div>
-</div>
+Currently I am a student of Computer Civil Engineering at the Universidad Católica del Maule. My focus encompasses a wide range of skills, from programming and databases to networks, security, and operating systems. My passion for technology is reflected in my constant interest in learning and applying knowledge in both frontend and backend development.
+
+<img align="right" alt="GIF" src="https://hips.hearstapps.com/roa.h-cdn.co/assets/16/05/480x240/landscape-1454772810-f40-touge.gif?resize=640:*" />
 
 
 
